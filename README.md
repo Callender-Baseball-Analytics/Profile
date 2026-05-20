@@ -1,1 +1,3 @@
 Aspiring Baseball Operations and Analytics Professional with a rigorous background in mathematics. Expert in leveraging R, Python, and SQL to derive insights from Statcast-level data. Proven ability to build predictive models (WAR, wOBA) and communicate complex statistical findings to diverse stakeholders. Very hard worker with excellent problem solving skills, communication skills, a high attention to detail, and teaching experience.
+
+https://www.linkedin.com/in/chris-callender-b24b72289/
